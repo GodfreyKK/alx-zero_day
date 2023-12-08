@@ -1,2 +1,2 @@
-Learning to use git
+Learning to use git.
 update
